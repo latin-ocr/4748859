@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4748859_0000.png"; bbox 0 0 3506 4480; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 754 956 2783 2199">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 754 956 2783 2199">
+     <span class='ocr_line' id='line_1_1' title="bbox 941 956 2609 1269; baseline 0.01 -18"><span class='ocrx_word' id='word_1_1' title='bbox 941 956 2609 1269; x_wconf 74' lang='grc' dir='ltr'>ΝΙΑὸΤΕΗ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 754 1420 2783 1735; baseline 0.01 -20"><span class='ocrx_word' id='word_1_2' title='bbox 754 1420 2783 1735; x_wconf 70' lang='grc' dir='ltr'>ΝΕΘΑΤΝΕ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 894 1890 2630 2199; baseline 0.01 -17"><span class='ocrx_word' id='word_1_3' title='bbox 894 1890 2630 2199; x_wconf 79' lang='grc' dir='ltr'>ΝυΝΙΒΕΗ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 843 2823 2648 3141">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 843 2823 2648 3141">
+     <span class='ocr_line' id='line_1_4' title="bbox 843 2823 2648 3141; baseline 0.012 -20"><span class='ocrx_word' id='word_1_4' title='bbox 843 2823 2648 3141; x_wconf 86' lang='grc' dir='ltr'>ΟΟ-255.3Ο</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
